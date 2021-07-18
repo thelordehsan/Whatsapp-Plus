@@ -1,1 +1,57 @@
-{'ver1':'20', 'ver2':'00', 'ver3':'Important message to read \n[Only For EK2WhatsApp Pink Users] \nThe previous version was beta for test /nversion Now this update is as A Public update.Please update Ehsan WhatsApp plus before the end of this version\nClick on download to be ReDirecte to the download link\nTo get the download link again, go to Additions and features, Updates, and then press on "Check for Updates"\n' , 'dli':'https://www.3hsan.com/2021/06/ehsan-whatsapp-plus-mod-apk.html'}
+{'ver1':'21', 'ver2':'00', 'ver3':' 
+
+<li>Download Update Only From the Official website 3hsan.com other Than this you might lost your data </li>
+
+<li>Only EK2WhatsApp Users</li>
+
+<li> Bug Fixes</li>
+
+<li>Added 5+ Animated Home Rows Styles </li>
+
+<li>Update Extended upto 2months </li>
+
+<li>Fixed The Crashing When making call </li>
+
+<li> Resolved the problem of delayed arrival of messages and not to send messages quickly in some devices</li>
+
+<li> This version is compatible with all versions including Kitkat 4</li>
+
+<li> Other fixes and improvements discovered by yourself</li>
+
+
+<li> Baixe a atualização apenas do site oficial 3hsan.com, exceto isso, você pode perder seus dados </li>
+
+ <li> Apenas usuários EK2WhatsApp </li>
+
+ <li> Correções de bugs </li>
+
+ <li> Adicionados mais de 5 estilos de linhas iniciais animadas </li>
+
+ <li> Atualização estendida para até 2 meses </li>
+
+ <li> Corrigido o travamento ao fazer uma chamada </li>
+
+ <li> Resolvido o problema de atraso na chegada de mensagens e de não envio de mensagens rapidamente em alguns dispositivos </li>
+
+ <li> Esta versão é compatível com todas as versões, incluindo Kitkat 4 </li>
+
+ <li> Outras correções e melhorias descobertas por você </li>
+
+
+<li> قم بتنزيل التحديث فقط من موقع 3hsan.com الرسمي بخلاف هذا فقد تفقد بياناتك </ li>
+
+<li>مستخدمو EK2WhatsApp فقط</li>
+<li> إصلاحات الأخطاء </ li>
+
+<li> تمت إضافة 5+ أنماط لصفوف الصفحة الرئيسية المتحركة </ li>
+
+<li> التحديث يمتد حتى شهرين </ li>
+
+<li> تم إصلاح الانهيار عند إجراء مكالمة </ li>
+
+<li> حل مشكلة تأخر وصول الرسائل وعدم إرسال الرسائل بسرعة في بعض الأجهزة </ li>
+
+<li> هذا الإصدار متوافق مع جميع ملفات 
+
+
+<li> إصلاحات وتحسينات أخرى</li>\n' , 'dli':'https://www.3hsan.com/2021/02/download-whatsapp-plus-mods-by-assem_10.html'}
