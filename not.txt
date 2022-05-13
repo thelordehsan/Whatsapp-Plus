@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'29', 'ver3':'\n🚨 IMP FIX Update \n⚒ Google Play Store "harmful app" wrong alert\n', 'dli':'https://www.3hsan.com/2021/06/ehsan-whatsapp-plus-mod-apk.html', 'exp921':'1', 'exp925':'100', 'exp927':'330', 'exp929':'330'}
+{'ver1':'9', 'ver2':'50', 'ver3':'\n🚨 IMP FIX Update \n⚒ Google Play Store "harmful app" wrong alert\n', 'dli':'https://www.3hsan.com/2021/06/ehsan-whatsapp-plus-mod-apk.html', 'exp921':'1', 'exp925':'100', 'exp927':'330', 'exp929':'330'}
