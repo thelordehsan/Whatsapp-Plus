@@ -1,1 +1,1 @@
-{'num':'4', 'msgs':'\Thank you for using Ehsan WhatsApp Plus\nThis application is free and does not cost you any purchase, we provide you with WhatsApp Plus with all the features for free\n\nDownload it now\nThank you for using this WhatsApp developer Ehsan Kamboh\n'}
+{'num':'3', 'msgs':'\Thank you for using Ehsan WhatsApp Plus\nThis application is free and does not cost you any purchase, we provide you with WhatsApp Plus with all the features for free\n\nDownload it now\nThank you for using this WhatsApp developer Ehsan Kamboh\n'}
