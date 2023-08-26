@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'00', 'ver3':' \nNOTE:\n Thanks for using EhsanWA\nThis is a testing message for Ehsan WhatsApp Plus\n' , 'dli':'https://www.3hsan.com/2021/06/ehsan-whatsapp-plus-mod-apk.html'}
+{'ver1':'13', 'ver2':'00', 'ver3':' \nNOTE:\n Thanks for using EhsanWA\nThis is a testing message for Ehsan WhatsApp Plus\n' , 'dli':'https://www.3hsan.com/2021/06/ehsan-whatsapp-plus-mod-apk.html'}
